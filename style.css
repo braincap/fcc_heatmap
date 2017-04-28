@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.yearLabel {
+  font-size: 9pt;
+  font-family: Consolas, courier;
+  fill: #aaa;
+  text-align: center;
+}
+
+.monthLabel {
+  font-size: 9pt;
+  font-family: Consolas, courier;
+  fill: #aaa;
+  text-align: right;
+}
+
+.tool {
+  display: none;
+  position: absolute;
+  font-family: Consolas, courier;
+  text-align: center;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 10px;
+  border-radius: 3%;
+}
